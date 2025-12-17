@@ -1,0 +1,8 @@
+flask>=2.3.0
+gunicorn>=20.1.0
+
+# Для Linux веб-сервера
+gevent>=22.10.0
+
+# Для Windows веб-сервера
+waitress>=2.1.0

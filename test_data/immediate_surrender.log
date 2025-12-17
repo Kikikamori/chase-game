@@ -1,0 +1,35 @@
+                          CHASE
+                    CREATIVE COMPUTING
+                  MORRISTOWN, NEW JERSEY
+
+
+
+
+YOU ARE WITHIN THE WALLS OF A HIGH VOLTAGE MAZE
+THERE ARE FIVE SECURITY MACHINES TRYING TO DESTROY YOU
+YOU ARE THE '*'  THE INTERCEPTORS ARE THE '+'
+THE AREAS MARKED 'X' ARE HIGH VOLTAGE
+YOUR ONLY CHANCE FOR SURVIVAL IS TO MANEUVER EACH
+INTERCEPTOR INTO AN 'X'.-----GOOD LUCK-----
+MOVES ARE   7.8.9
+            4.*.6
+            1.2.3
+
+10 = NO MOVE FOR THE REST OF THE GAME
+-1 = GAVE UP, SITUATION HOPELESS.
+ 0 = A TREMENDOUS (BUT UNFORTUNATELY RANDOM) LEAP
+
+XXXXXXXXXXXXXXXXXXXX
+X         X+  X    X
+X *         X    + X
+X    X XX          X
+X X+  X  +  X      X
+X       X          X
+X           X      X
+X        X     X   X
+X      +           X
+XXXXXXXXXXXXXXXXXXXX
+Input (from history): -1
+Input: -1
+GIVE UP, EH.
+
