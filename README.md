@@ -1,7 +1,5 @@
 # Chase Game - Python Port
 
-![Chase Game](assets/screenshot.png)
-
 Портированная версия классической игры Chase с BASIC на Python с поддержкой множества платформ.
 
 ##Описание проекта
@@ -30,6 +28,8 @@
 0 - Случайный прыжок
 10 - Пропуск ходов до конца игры
 -1 - Сдаться
+
+<img width="523" height="745" alt="изображение" src="https://github.com/user-attachments/assets/85efe6d6-c8b3-4e49-804b-225250611728" />
 
 
 ## Установка и запуск
